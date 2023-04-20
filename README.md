@@ -1,0 +1,1 @@
+Completa el código en los archivos `MethodsTest.kt` y `methods.kt` para que pasen los tests.
